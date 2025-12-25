@@ -1,3 +1,3 @@
 ## My DevOps Portfolio
 ## About me
-## Projects - Git Basics
+## Projects - DevOps Lab 1/Git Basics
